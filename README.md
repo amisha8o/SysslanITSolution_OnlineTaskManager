@@ -71,7 +71,7 @@ OR open in Chrome / Edge browser
 
 ## 👩‍💻 Author
 Amisha Kumari  
-Full Stack Development Intern  
+Software Development Intern  
 GitHub: https://github.com/amisha8o  
 
 ---
